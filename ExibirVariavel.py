@@ -5,5 +5,5 @@ ativo = True
 
 print("O código é: %i " % codigo)
 print("O nome é: %s " % nome)
-print("O salário é: %s " % salario)
+print("O salário é: %.2f " % salario)
 print("Ativo é: %r " % ativo)
